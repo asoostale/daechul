@@ -142,7 +142,7 @@ button:focus {
 /*HOME*/
 /*id를 가지고 있으니 id 선택자 사용*/
 #home {
-    background-color: var(--color-primary);
+    background-color: rgb(20, 20, 30);
     color: var(--color-text);
     padding: 7rem 1rem 5rem;
     text-align: center;
@@ -218,6 +218,7 @@ button:focus {
     font-size: 1.5rem;
     font-weight: bold;
     margin-bottom: 1rem;
+    color: var(--color-blue);
 }
 
 .major:hover .major__icon {
